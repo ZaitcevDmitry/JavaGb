@@ -75,3 +75,4 @@ crashlytics-build.свойства
 
 # Android studio 3.1+ сериализованный файл кэша
 .idea/кэширование/build_file_checksums.ser
+/.idea/
